@@ -1,4 +1,4 @@
-# Instagram-Tags-For-Likes
+# Instagram-memes-For-Likes
 The bot is to like several memes on Instagram. 
 
 
