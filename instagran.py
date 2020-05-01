@@ -60,4 +60,3 @@ class InstagramBot:
 
 Bot = InstagramBot("your account", "your password")
 Bot.login()
-#instagramBot = curtir_fotos()
