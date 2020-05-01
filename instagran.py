@@ -61,6 +61,6 @@ class InstagramBot:
         
          
 
-damiaoBot = InstagramBot("your account", "your password")
-damiaoBot.login()
+Bot = InstagramBot("your account", "your password")
+Bot.login()
 #instagramBot = curtir_fotos()
