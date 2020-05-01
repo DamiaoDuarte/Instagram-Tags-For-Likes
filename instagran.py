@@ -10,9 +10,6 @@ class InstagramBot:
         self.password = password
         self.driver = webdriver.Chrome(executable_path = r"C:\Users\GREEN-PC\Desktop\pythonvscode\assets\chromedriver.exe")
 
-    #//ahref="/accounts/emailsignup/">
-    #//input[@name = 'username']
-    # //input[@name = 'password']
     def login(self):
         driver = self.driver
         driver.get("https://www.instagram.com/")
